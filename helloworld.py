@@ -1,2 +1,6 @@
 print('Hello world')
 print('git is awesome!')
+user_name = input('Enter the user name')
+age = input('Enter the age')
+print(age)
+print(user_name)
